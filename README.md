@@ -3,12 +3,12 @@
 
 Developed by **Blackpink Team**  
 ## Team Contributions
-| NRP        | Name                                   | Responsibilities |
-|------------|----------------------------------------|------------------|
-| 3124510065 | Juhra Prawira Sita (@juxhra)            | Penyusunan laporan, desain lokasi, fitur eksplorasi, penulisan sinopsis, penambahan karakter teman, pencarian referensi |
-| 3124510067 | Bunga Rani Kusmawati                    | Pembuatan video demonstrasi dan penyusunan flowchart |
-| 3124510098 | Syafira Nur Maulidsa                    | Penyusunan UML Class Diagram dan pengumpulan sumber pendukung |
-| 3124510100 | Rofiqul Wahyu Romandani (@usernameWahyu)| Perancangan struktur game, sistem musuh, mekanik status pemain (HP/level/skor), logika menang-kalah, dan item |
+| Name                                   | Responsibilities |
+|----------------------------------------|------------------|
+|Juhra Prawira Sita (@juxhra)            | Penyusunan laporan, desain lokasi, fitur eksplorasi, penulisan sinopsis, penambahan karakter teman, pencarian referensi |
+|Bunga Rani Kusmawati                    | Pembuatan video demonstrasi dan penyusunan flowchart |
+|Syafira Nur Maulidsa                    | Penyusunan UML Class Diagram dan pengumpulan sumber pendukung |
+|Rofiqul Wahyu Romandani (@levellingCode)| Perancangan struktur game, sistem musuh, mekanik status pemain (HP/level/skor), logika menang-kalah, dan item |
   
 ![Harry Potter Adventure](https://img.icons8.com/color/96/000000/harry-potter.png)
 
@@ -53,4 +53,5 @@ Developed by **Blackpink Team**
    ```bash
 
    cd HarryPotterAdventure
+
 
