@@ -1,6 +1,16 @@
 # Harry Potter Adventure  
 **Mini Project OOP Java - Console-Based Game**
 
+Developed by **Blackpink Team**  
+## Team Contributions
+
+| NRP        | Name                     | Responsibilities |
+|------------|--------------------------|------------------|
+| 3124510065 | Juhra Prawira Sita        | Penyusunan laporan, desain lokasi, fitur eksplorasi, penulisan sinopsis, penambahan karakter teman, pencarian referensi |
+| 3124510067 | Bunga Rani Kusmawati      | Pembuatan video demonstrasi dan penyusunan flowchart |
+| 3124510098 | Syafira Nur Maulidsa      | Penyusunan UML Class Diagram dan pengumpulan sumber pendukung |
+| 3124510100 | Rofiqul Wahyu Romandani   | Perancangan struktur game, sistem musuh, mekanik status pemain (HP/level/skor), logika menang-kalah, dan item |
+  
 ![Harry Potter Adventure](https://img.icons8.com/color/96/000000/harry-potter.png)
 
 > Sebuah game petualangan berbasis teks yang mengikuti kisah 6 tahun di Hogwarts, dengan sistem pertarungan strategis, eksplorasi lokasi, dan narasi dramatis — semua dalam konsol!
@@ -42,4 +52,5 @@
 ### Langkah-Langkah
 1. Buka terminal di folder proyek:
    ```bash
+
    cd HarryPotterAdventure
